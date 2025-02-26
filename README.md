@@ -2,7 +2,7 @@
 ## Hi!👋, I'm Pratik Kambale
 
 # 💫 About Me:
-⌨️I Completed My B.E (Computer) <br>💻I am C-DAC Student <br>📚I am Currently Learning
+⌨️I Completed My B.E (Computer Engineering) <br>💻I am C-DAC Student <br>📚I am Currently Learning
 
 
 ## 🌐 Socials:
