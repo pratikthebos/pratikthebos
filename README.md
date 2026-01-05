@@ -10,7 +10,7 @@
 
 
 ## 🏢 Current Role
-- **Software Engineer / Developer** at **C-DAC Mumbai**
+- **Project Engineer / Software Developer** at **C-DAC Mumbai**
 - Working on government-grade applications with focus on:
   - Secure Mobile Applications
   - Offline-first architectures
