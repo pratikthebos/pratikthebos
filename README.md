@@ -2,8 +2,19 @@
 ## Hi!👋, I'm Pratik Kambale
 
 # 💫 About Me:
-⌨️I Completed My B.E (Computer Engineering) <br>💻I am C-DAC Student <br>📚I am Currently Learning
+⌨️ Completed B.E. in Computer Engineering  
+🏢 Currently working at **C-DAC Mumbai**  
+💻 C-DAC Student  
+📚 Passionate about learning and building secure, scalable applications  
+🚀 Interested in Mobile App Development, Backend Systems & Security
 
+
+## 🏢 Current Role
+- **Software Engineer / Developer** at **C-DAC Mumbai**
+- Working on government-grade applications with focus on:
+  - Secure Mobile Applications
+  - Offline-first architectures
+  - API integrations & system design
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pratik.pratikvijaykambale)
